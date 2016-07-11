@@ -1,0 +1,21 @@
+{
+    "name": "clever-style-switcher",
+    "version": "0.0.0",
+    "description": "A Client-Side CSS-Switcher",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/carroket/clever-style-switcher.git"
+    },
+    "author": {
+        "name": "Brian Sexton",
+        "url": "http://www.briansexton.com/"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/carroket/clever-style-switcher/issues"
+    },
+    "homepage": "https://github.com/carroket/clever-style-switcher#readme"
+}
