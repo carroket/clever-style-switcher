@@ -10,10 +10,14 @@ I would like to rethink CSS switchers and make a great one.
 
 ### Deployment
 
-First, place **clever-style-switcher.js** somewhere sensible then load it in your HTML like so:
+First, place **clever-style-switcher.js** (or the minified version, **css.min.js**) somewhere sensible then load it in your HTML like so:
 
 ```html
 <script src="path/to/clever-style-switcher.js"></script>
+```
+
+```html
+<script src="path/to/css.min.js"></script>
 ```
 
 ### Configuration
