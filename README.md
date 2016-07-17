@@ -62,4 +62,4 @@ In that case, you would be able to access Clever Style-Switcher via **window.com
 
 ## Who made this?
 
-Clever Style-Switcher was made by [Brian Sexton](http://briansexton.com/) of [Carroket, Inc.](http://carroket.com/)
+Clever Style-Switcher is being made by [Brian Sexton](http://briansexton.com/) of [Carroket, Inc.](http://carroket.com/)
